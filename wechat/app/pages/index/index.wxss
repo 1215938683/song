@@ -1,0 +1,33 @@
+/**index.wxss**/
+.lun {
+  margin: 0 auto;
+  background-color: red;
+  height: 350rpx;
+}
+.bo{
+  margin-left: 55rpx;
+  
+}
+.img{
+  width: 100rpx;
+  height: 100rpx;
+  float: right;
+  margin-right: 60rpx;
+  margin-bottom: 100rpx;
+}
+.news{
+  margin-top: 20rpx;
+  background-color: green;
+  height: 340rpx;
+}
+.article{
+  background-color: red;
+  width: 180rpx;
+  height: 50rpx;
+  clear: both;
+   margin-left: 60rpx;
+}
+.title{
+  margin-left: 60rpx;
+  float: left;
+}

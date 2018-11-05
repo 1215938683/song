@@ -1,0 +1,22 @@
+<!--index.wxml-->
+<view class='lun'>
+   <swiper class='bo' autoplay='true'>
+        <swiper-item><image src='https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2888764286,2272671046&fm=27&gp=0.jpg'></image></swiper-item>
+        <swiper-item>
+        <image src='https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2916471575,1486221175&fm=27&gp=0.jpg'></image>
+        </swiper-item>
+   </swiper>
+</view>
+
+<view class='news'>
+    <text class='title'>游戏新闻大爆炸</text>
+    <image src='img/home.png' class='img'></image>
+    <view class='article'>
+      <text>文章来源</text>
+    </view>  
+</view>
+
+
+
+
+

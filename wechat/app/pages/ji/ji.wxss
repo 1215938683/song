@@ -1,0 +1,13 @@
+/* pages/ji/ji.wxss */
+.xian{
+  width: 100%;
+  height: 350rpx;
+
+}
+.counter{
+  margin-bottom: 40rpx;
+}
+.button{
+  width: 187rpx;
+  float: left;
+}

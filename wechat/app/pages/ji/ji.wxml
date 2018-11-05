@@ -1,0 +1,24 @@
+<!--pages/ji/ji.wxml-->
+<view class='counter'>计算器</view>
+<view class='xian'>{{screenNum}}</view>
+
+<button class='button'>CE</button>
+<button class='button' bindtap="btnClear">C</button>
+<button class='button'>(</button>
+<button class='button' bindtap="btnClick" id="{{nd}}">/</button>
+<button class='button' bindtap="btnClick" id="{{n7}}">7</button>
+<button class='button' bindtap="btnClick" id="{{n8}}">8</button>
+<button class='button' bindtap="btnClick" id="{{n9}}">9</button>
+<button class='button' bindtap="btnClick" id="{{nc}}">X</button>
+<button class='button' bindtap="btnClick" id="{{n4}}">4</button>
+<button class='button' bindtap="btnClick" id="{{n5}}">5</button>
+<button class='button' bindtap="btnClick" id="{{n6}}">6</button>
+<button class='button' bindtap="btnClick" id="{{nb}}">-</button>
+<button class='button' bindtap="btnClick" id="{{n1}}">1</button>
+<button class='button' bindtap="btnClick" id="{{n2}}">2</button>
+<button class='button' bindtap="btnClick" id="{{n3}}">3</button>
+<button class='button' bindtap="btnClick" id="{{na}}">+</button>
+<button class='button' bindtap="btnClick" id="{{nw}}">?</button>
+<button class='button' bindtap="btnClick" id="{{n0}}">0</button>
+<button class='button' bindtap="btnClick" id="{{ndd}}">.</button>
+<button class='button' bindtap="btnJs">=</button>
